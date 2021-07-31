@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Steriods.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Steriods.sol": {
+			"keccak256": "0x5a70b52271000e88f568d8619863185b2248785b85455d9f5377ac50a5047bc3",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://6b83833f17647af430beaff788b2368169cf87fe2f301f149d25f4bcd2dea096",
+				"dweb:/ipfs/QmVRPqGQsv8baY7s7TSyrhxJd7R5zdtJ5evDiyk7DrhHT7"
+			]
+		}
+	},
+	"version": 1
+}
